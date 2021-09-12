@@ -10,3 +10,4 @@ print(f"年的日历图：{year_calender_str}\n")
 
 print("OK")
 print("你好")
+print("新增一条数据")
